@@ -30,4 +30,4 @@ app.post("/api/products", function (req, res) {
   res.send(products);
 });
 
-app.listen(5500);
+app.listen(3000);
